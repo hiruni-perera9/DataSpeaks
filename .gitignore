@@ -1,6 +1,46 @@
-venv/
-.env
+
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# FastAPI / Backend
+*.db
+*.sqlite
+*.sqlite3
+customer_data.db
+.env
+.env.local
+
+# Logs
+*.log
+security.log
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
 .DS_Store
+
+# Frontend (for later)
 node_modules/
+dist/
+build/
+.next/
+.cache/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# System
+.DS_Store
+Thumbs.db
