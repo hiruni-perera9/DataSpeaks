@@ -164,13 +164,6 @@ This is a portfolio project, but feedback is welcome! Open an issue or reach out
 
 MIT License - See LICENSE file
 
-## 👤 Author
-
-[Your Name]
-- Portfolio: [Your Portfolio URL]
-- LinkedIn: [Your LinkedIn]
-- GitHub: [@yourusername](https://github.com/yourusername)
-
 ---
 
 **Note**: This project is part of my transition into AI security engineering. It demonstrates full-stack development, AI integration, and security-conscious architecture.
