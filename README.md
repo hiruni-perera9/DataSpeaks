@@ -103,8 +103,6 @@ This project implements security-first architecture:
 4. **Output Validation**: Sanitization before returning to frontend
 5. **Security Logging**: Audit trail for suspicious activity
 
-See [Security Architecture](docs/security.md) for details.
-
 ## 🎨 Dashboard Metrics
 
 The dashboard tracks essential SaaS metrics:
@@ -166,4 +164,4 @@ MIT License - See LICENSE file
 
 ---
 
-**Note**: This project is part of my transition into AI security engineering. It demonstrates full-stack development, AI integration, and security-conscious architecture.
+**Note**: This project is part of my exploration into AI security engineering. It demonstrates full-stack development, AI integration, and security-conscious architecture.
